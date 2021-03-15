@@ -27,6 +27,8 @@
 		78D4112B25FFB7D900FD733F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 060782BC250CE27A00A87020 /* LaunchScreen.storyboard */; };
 		78D4112C25FFB7D900FD733F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 060782BA250CE27A00A87020 /* Assets.xcassets */; };
 		78D4112D25FFB7D900FD733F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 060782B7250CE27700A87020 /* Main.storyboard */; };
+		78D4113725FFF78500FD733F /* Navigation copy-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 78D4113225FFB7D900FD733F /* Navigation copy-Info.plist */; };
+		78D4113A25FFF7A700FD733F /* Target_2.app in Resources */ = {isa = PBXBuildFile; fileRef = 78D4113125FFB7D900FD733F /* Target_2.app */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -194,9 +196,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78D4113725FFF78500FD733F /* Navigation copy-Info.plist in Resources */,
 				78D4112B25FFB7D900FD733F /* LaunchScreen.storyboard in Resources */,
 				78D4112C25FFB7D900FD733F /* Assets.xcassets in Resources */,
 				78D4112D25FFB7D900FD733F /* Main.storyboard in Resources */,
+				78D4113A25FFF7A700FD733F /* Target_2.app in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
